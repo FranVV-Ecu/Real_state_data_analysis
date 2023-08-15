@@ -1,10 +1,10 @@
-Research of advertisements for apartments for sale
-Project description
+# Research of advertisements for apartments for sale
+## Project description
 You have at your disposal data from the Yandex.Real Estate service - an archive of advertisements about apartments for sale in St. Petersburg and neighboring cities for several years. You need to learn how to determine the market value of real estate objects. Your task is to set the parameters. This will allow you to build an automated system: it will track anomalies and fraudulent activity.
 
 For each apartment for sale, two types of data are available. The first is entered by the user, the second is obtained automatically on the basis of map data. For example, distance to the center, airport, nearest park and water body.
 
-Data description
+## Data description
 airports_nearest - distance to the nearest airport in meters (m)
 balcony - number of balconies
 ceiling_height - ceiling height (m)
