@@ -6,26 +6,26 @@ For each apartment for sale, two types of data are available. The first is enter
 
 ## Data description
  - airports_nearest - distance to the nearest airport in meters (m),<br>
-    " - balcony - number of balconies\n",
-    " - ceiling_height - ceiling height (m)\n",
-    " - cityCenters_nearest - distance to the city center (m)\n",
-    " - days_exposition - how many days the ad was placed (from publication to removal)\n",
-    " - first_day_exposition - date of publication\n",
-    " - floor\n",
-    " - floors_total - total number of floors in the house\n",
-    " - is_apartment - apartment (Boolean type)\n",
-    " - kitchen_area - kitchen area in square meters (m²)\n",
-    " - last_price - price at the moment of withdrawal from publication\n",
-    " - living_area - living area in square meters (m²)\n",
-    " - locality_name - name of the locality\n",
-    " - open_plan - free layout (Boolean type)\n",
-    " - parks_around3000 - number of parks within 3 km radius\n",
-    " - parks_nearest - distance to the nearest park (m)\n",
-    " - ponds_around3000 - number of water bodies within 3 km radius\n",
-    " - ponds_nearest - distance to the nearest body of water (m)\n",
-    " - rooms - number of rooms\n",
-    " - studio - studio apartment (Boolean type)\n",
-    " - total_area - area of the apartment in square meters (m²)\n",
-    " - total_images - number of photos of the apartment in the ad\n",
-    " \n",
+ - balcony - number of balconies, <br>
+ - ceiling_height - ceiling height (m)<br>
+ - cityCenters_nearest - distance to the city center <br>
+ - days_exposition - how many days the ad was placed (from publication to removal)<br>
+ - first_day_exposition - date of publication<br>
+ - floor<br>
+ - floors_total - total number of floors in the house<br>
+ - is_apartment - apartment (Boolean type)<br>
+ - kitchen_area - kitchen area in square meters (m²)<br>
+ - last_price - price at the moment of withdrawal from publication<br>
+ - living_area - living area in square meters (m²)<br>
+ - locality_name - name of the locality<br>
+ - open_plan - free layout (Boolean type)<br>
+ - parks_around3000 - number of parks within 3 km radius<br>
+ - parks_nearest - distance to the nearest park (m)<br>
+ - ponds_around3000 - number of water bodies within 3 km radius<br>
+ - ponds_nearest - distance to the nearest body of water (m)<br>
+  - rooms - number of rooms<br>
+  - studio - studio apartment (Boolean type)<br>
+  - total_area - area of the apartment in square meters (m²)<br>
+  - total_images - number of photos of the apartment in the ad<br><br>
+    
     "Explanation: apartments are non-residential premises that do not belong to the housing stock, but have the necessary conditions for living."
