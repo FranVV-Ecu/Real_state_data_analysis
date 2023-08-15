@@ -5,7 +5,7 @@ You have at your disposal data from the Yandex.Real Estate service - an archive 
 For each apartment for sale, two types of data are available. The first is entered by the user, the second is obtained automatically on the basis of map data. For example, distance to the center, airport, nearest park and water body.
 
 ## Data description
- " - airports_nearest - distance to the nearest airport in meters (m)",<br>
+ - airports_nearest - distance to the nearest airport in meters (m),<br>
     " - balcony - number of balconies\n",
     " - ceiling_height - ceiling height (m)\n",
     " - cityCenters_nearest - distance to the city center (m)\n",
